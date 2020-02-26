@@ -1,6 +1,7 @@
-name = Josh
-name2= Dan
+
 def introduction
+  name = Josh
+name2= Dan
   puts "Hi, my name is #{name}.\n"
  puts "Hi, my name is #{name2}.\n"
   
