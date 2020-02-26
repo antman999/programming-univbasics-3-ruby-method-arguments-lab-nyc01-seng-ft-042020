@@ -1,5 +1,5 @@
-name = josh
-name2= 
+name = Josh
+name2= Dan
 def introduction
   puts ""
   
