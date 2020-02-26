@@ -1,4 +1,5 @@
 name = josh
+name2= 
 def introduction
   puts ""
   
