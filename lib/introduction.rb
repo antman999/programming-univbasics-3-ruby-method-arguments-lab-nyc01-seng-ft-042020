@@ -1,8 +1,8 @@
 name = "Josh"
 name2= "Dan"
 def introduction
-  puts "Hi, my name is #{name}.\n
-  Hi, my name is #{name2}.\n"
+  puts "Hi, my name is #{name}.\n"
+ puts "Hi, my name is #{name2}.\n"
   
 
 
